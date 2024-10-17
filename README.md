@@ -25,4 +25,5 @@ This project implements a **Multi-Agent Workflow for Stock Analysis**, designed 
 
 ## Solution
 
-<img width="863" alt="image" src="https://github.com/user-attachments/assets/0e970925-a9e1-4262-a422-ae8a73d33471">
+<img width="863" alt="image" src="https://github.com/user-attachments/assets/735db2d8-8ebc-4796-a396-39db882d8d35">
+
